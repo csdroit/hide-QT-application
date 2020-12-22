@@ -1,2 +1,2 @@
 # hide-QT-application
-simple hide button application made by QT
+simple hide close button application made by QT
